@@ -50,26 +50,7 @@ The main objectives of this project are:
 
 # 📊 Dashboard Screenshots
 
-## 1️⃣ Main Dashboard
-
-The Main Dashboard provides an overall summary of student social media usage, academic performance, sleep patterns, addiction levels, and gender distribution.
-
-### Key Features
-
-- Total Students
-- Average Usage Hours
-- Academic Impact
-- Average Sleep Hours
-- Average Addiction Score by Academic Level
-- Average Usage Hours by Age
-- Gender Distribution
-- Academic Level, Gender and Country filters
-
-![Main Dashboard](Dashboard-Main.png)
-
----
-
-## 2️⃣ 👤 Student Profile
+## 1️⃣ 👤 Student Profile
 
 The Student Profile page provides detailed information about an individual student.
 
@@ -92,7 +73,7 @@ The Student Profile page provides detailed information about an individual stude
 
 ---
 
-## 3️⃣ 📱 Social Media Usage Analysis
+## 2️⃣ 📱 Social Media Usage Analysis
 
 This interactive view compares social media usage across gender and academic level.
 
@@ -111,7 +92,7 @@ The dashboard includes interactive navigation buttons to switch between Gender V
 
 ---
 
-## 4️⃣ ❤️ Relationships & Conflicts Analysis
+## 3️⃣ ❤️ Relationships & Conflicts Analysis
 
 This dashboard analyzes students' relationship status and conflict levels.
 
@@ -137,7 +118,7 @@ Interactive slicers allow analysis by:
 
 ---
 
-## 5️⃣ 🎓 Academic Impact Analysis
+## 4️⃣ 🎓 Academic Impact Analysis
 
 This page analyzes how social media usage is associated with students' academic performance.
 
@@ -162,7 +143,7 @@ Interactive filters include:
 
 ---
 
-## 6️⃣ 🧠 Mental Health & Lifestyle Analysis
+## 5️⃣ 🧠 Mental Health & Lifestyle Analysis
 
 This dashboard explores the relationship between social media addiction, mental health, and sleep patterns.
 
@@ -179,7 +160,7 @@ This dashboard explores the relationship between social media addiction, mental 
 
 ---
 
-## 7️⃣ 🔍 Interactive Story View
+## 6️⃣ 🔍 Interactive Story View
 
 The Interactive Story View allows users to explore and compare social media usage from different perspectives.
 
