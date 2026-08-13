@@ -88,7 +88,7 @@ This interactive view compares social media usage across gender and academic lev
 
 The dashboard includes interactive navigation buttons to switch between Gender View and Academic Level View.
 
-![Social Media Usage Analysis](Social-Media-Usage.png)
+![Interactive Story](Interactive-Story.png)
 
 ---
 
@@ -114,7 +114,7 @@ Interactive slicers allow analysis by:
 - Gender
 - Country
 
-![Relationships and Conflicts Analysis](Relationships-Conflicts.png)
+![Relationships and Conflicts Analysis](Relationship-Conflicts.png)
 
 ---
 
