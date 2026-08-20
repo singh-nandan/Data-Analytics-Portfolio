@@ -19,7 +19,7 @@ This folder contains my SQL projects created as part of my Data Analytics learni
 
 ## 📂 Projects
 
-SQL projects will be added here as I complete them.
+E-Commerce-SQL-Analysis
 
 ---
 
